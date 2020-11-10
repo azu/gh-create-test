@@ -1,0 +1,27 @@
+{
+  "name": "gh-create-test",
+  "version": "1.0.0",
+  "description": "test description",
+  "homepage": "https://github.com/azu/gh-create-test",
+  "bugs": {
+    "url": "https://github.com/azu/gh-create-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/gh-create-test.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/gh-create-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
